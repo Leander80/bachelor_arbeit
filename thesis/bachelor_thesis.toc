@@ -1,0 +1,20 @@
+\babel@toc {american}{}\relax 
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Theoretical background}{2}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Atmospheric muons and the prompt component}{2}{section.2.1}%
+\contentsline {section}{\numberline {2.2}The IceCube Neutrino Observatory}{4}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Convolutional neural networks}{6}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}General theory on CNNs}{6}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}IceCube specific CNN}{7}{subsection.2.3.2}%
+\contentsline {chapter}{\numberline {3}Reconstruction performance}{9}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Bundle energy}{9}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Correlation}{9}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}Energy spectrum}{12}{subsection.3.1.2}%
+\contentsline {section}{\numberline {3.2}Energy of the leading muon}{15}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Correlation}{15}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Energy spectrum}{16}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}Leading fraction}{16}{subsection.3.2.3}%
+\contentsline {section}{\numberline {3.3}Optimization}{19}{section.3.3}%
+\contentsline {chapter}{\numberline {4}Runtime comparison}{22}{chapter.4}%
+\contentsline {chapter}{\numberline {5}Conclusion and outlook}{24}{chapter.5}%
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

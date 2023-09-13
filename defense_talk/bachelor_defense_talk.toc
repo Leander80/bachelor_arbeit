@@ -1,0 +1,10 @@
+\selectlanguage *{german}
+\beamer@sectionintoc {1}{Introduction}{3}{0}{1}
+\beamer@sectionintoc {2}{Motivation}{8}{0}{2}
+\beamer@sectionintoc {3}{Reconstruction performance}{9}{0}{3}
+\beamer@subsectionintoc {3}{1}{Bundle energy}{9}{0}{3}
+\beamer@subsectionintoc {3}{2}{Energy of the leading muon}{15}{0}{3}
+\beamer@subsectionintoc {3}{3}{Optimization}{19}{0}{3}
+\beamer@sectionintoc {4}{Runtime comparison}{21}{0}{4}
+\beamer@sectionintoc {5}{Summary}{22}{0}{5}
+\beamer@sectionintoc {6}{Outlook}{23}{0}{6}
